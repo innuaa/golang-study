@@ -1,4 +1,4 @@
-module self/golang-study
+module github.com/innuaa/golang-study
 
 go 1.18
 
